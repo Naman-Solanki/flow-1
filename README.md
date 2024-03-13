@@ -2,21 +2,6 @@
 
 This project consists of a contract, transaction, and script for managing student information using Cadence on the Flow blockchain.
 
-## Table of Contents
-
-- [StructContract Project](#structcontract-project)
-  - [Table of Contents](#table-of-contents)
-  - [Requirements](#requirements)
-  - [Contract](#contract)
-    - [StudentStruct](#studentstruct)
-    - [PublicFunctions](#publicfunctions)
-  - [Transaction](#transaction)
-    - [TransactionParameters](#transactionparameters)
-  - [Script](#script)
-    - [ScriptParameters](#scriptparameters)
-  - [Usage](#usage)
-  - [Author](#author)
-  - [License](#license)
 
 ## Requirements
 
@@ -59,12 +44,6 @@ The `StructScript` script interacts with the `StructContract` contract to retrie
 2. Deploy the `StructContract` contract on the Flow blockchain.
 3. Use the `StructTransaction` transaction to add a student by providing their ID and name.
 4. Use the `StructScript` script to retrieve a student's information by providing their ID.
-
-## Author
-
-This project was created by [Samaila Anthony Malima](https://github.com/samailamalima) and serves as a basic example of how to define contracts, transactions, and scripts using Cadence on the Flow blockchain.
-
-Happy coding!
 
 ## License
 
