@@ -1,5 +1,4 @@
-# StructContract Project
-
+# FLow 1
 This project consists of a contract, transaction, and script for managing student information using Cadence on the Flow blockchain.
 
 
